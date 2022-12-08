@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahervin
-- 👀 I’m interested in learning and writing code
-- 🌱 I’m currently learning how to be the best, like noone ever was. 
+- 👀 I’m interested in learning new things everyday and writing high-quality code
+- 🌱 I’m currently learning how to be the best, like noone ever was
 - 💞️ I’m looking to collaborate on fun mobile and web projects
 - 📫 How to reach me: sarahervindev@gmail.com
 
